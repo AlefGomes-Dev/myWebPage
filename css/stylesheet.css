@@ -1,0 +1,85 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: radial-gradient(circle at 12% 92%, #ffffff, #cdfcf6);
+    color: black;
+}
+
+h1{
+    color: #333;
+    text-align: center;
+}
+
+h2{
+    color: #333;
+    text-align: center;
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+p{
+    color: #333;
+    text-align: justify;
+}
+
+img{
+    display: block;
+    margin:auto;
+    width: 15%;
+}
+
+#lnkn{
+    width: fit-content;
+}
+
+#gthb{
+    width: fit-content;
+}
+
+.aboutMe{
+    text-align: justify;
+    text-justify: inter-word;;
+    margin: 0 auto;
+    width: 50%;
+}
+.container{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.linkedin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle at 15% 98%, #cad6d5,#ffffff);
+    border-radius: 5%;
+    border: #cad6d5;
+    padding: auto;
+}
+
+.github{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle at 15% 98%, #cad6d5,#ffffff);
+    border-radius: 5%;
+    border: #cad6d5;
+    padding: auto;
+}
+
+#gthblogo{
+    height: 60px;
+    width: 60px;
+}
+
+#lnklogo{
+    height: 60px;
+    width: 60px;
+}
+
