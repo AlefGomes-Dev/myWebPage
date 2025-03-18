@@ -1,0 +1,75 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+    background: radial-gradient(circle at 15% 98%, #cad6d5,#ffffff);
+}
+
+h1, h2{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.aboutMe{
+    text-align: justify;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #cad6d5;
+    padding: auto;
+    max-width: 50%;
+    color: #333;
+}
+
+.profile{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+#Alef{
+    box-shadow: 5px 10px rgb(139, 139, 139);;
+}
+
+.container{
+    padding: 15px;
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.linkedin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle at 15% 98%, #cad6d5,#ffffff);
+    border-radius: 10%;
+    border: #cad6d5;
+    padding: 15px;
+}
+
+.github{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle at 15% 98%, #cad6d5,#ffffff);
+    border-radius: 10%;
+    border: #cad6d5;
+    padding: 15px;
+}
+
+#gthblogo{
+    height: 40px;
+    width: 40px;
+}
+
+#lnklogo{
+    height: 40px;
+    width: 40px;
+}
